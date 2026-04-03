@@ -1,6 +1,5 @@
-# RTL/LTR Handling in React — The Complete Guide
 
-Most i18n tutorials stop at translating text. But if you're building for Arabic or Hebrew audiences, switching the language is only half the job — the *layout* has to flip too.
+Most i18n tutorials stop at translating text. But if you're building for Arabic audiences, switching the language is only half the job — the *layout* has to flip too.
 
 This guide covers everything I learned building bilingual (AR/EN) apps with proper RTL/LTR support.
 
