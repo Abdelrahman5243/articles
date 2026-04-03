@@ -1,4 +1,3 @@
-# Core Web Vitals Optimization: LCP & CLS in Real Projects
 
 Performance scores matter — but most articles explain *what* LCP and CLS are, not *how to actually fix them* in a real codebase.
 
@@ -95,7 +94,7 @@ Web fonts cause layout shift when they load. Use `font-display: optional` for bo
 
 ---
 
-## Tools I Use
+## Tools To Use
 
 | Tool | Purpose |
 |---|---|
