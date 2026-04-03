@@ -1,0 +1,18 @@
+[
+  {
+    "_id": 1,
+    "slug": "rtl-ltr-react",
+    "title": "RTL/LTR Handling in React — The Complete Guide",
+    "short-description": "A practical guide to building fully bidirectional (AR/EN) React apps with proper RTL/LTR support using CSS logical properties and i18next.",
+    "tags": ["React", "i18n", "RTL", "CSS"],
+    "cover": ""
+  },
+  {
+    "_id": 2,
+    "slug": "core-web-vitals-optimization",
+    "title": "Core Web Vitals Optimization: LCP & CLS in Real Projects",
+    "short-description": "Real-world techniques I used to improve LCP and CLS scores in a Magento PWA and Next.js app — not just theory.",
+    "tags": ["Performance", "Core Web Vitals", "Next.js", "PWA"],
+    "cover": ""
+  }
+]
