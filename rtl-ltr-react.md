@@ -69,7 +69,7 @@ const RTLAware = ({ children }) => {
 };
 ```
 
-Use this carefully — only for icons/arrows that are directional by nature (e.g. back/forward arrows, sliders).
+Use this carefully , only for icons/arrows that are directional by nature (e.g. back/forward arrows, sliders).
 
 ---
 
